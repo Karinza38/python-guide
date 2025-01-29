@@ -1,4 +1,4 @@
-Hitchhiker's Guide to Python
+ Hitchhiker's Guide to Python
 ============================
 
 **Python Best Practices Guidebook**
